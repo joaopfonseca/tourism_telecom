@@ -1,3 +1,14 @@
+.DS_Store
+*.csv
+*.zip
+*.json
+*.txt
+*.xlsx
+*.gpkg
+*db_configs*
+*.eps
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
